@@ -1,7 +1,7 @@
 # Tarea1AprendizajePorRefuerzo
 Tarea metodos de aprendizaje por refuerzo en GrindWorld
 
-## 🚀 Instrucciones de Ejecución
+## Instrucciones de Ejecución
 
 ### 1. Configuración del Entorno
 Primero, es necesario crear y activar un entorno Conda con las dependencias específicas.
